@@ -1,3 +1,7 @@
+/**
+ * The first commented line is your dabblet’s title
+ */
+
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
 
 /* Important part, as the javascript will check for this class */
@@ -21,7 +25,7 @@ body {
     font-weight: 300;
     line-height: 1;
     letter-spacing: 0.05em;
-    background-image: linear-gradient(135deg, rgba(25,118,210,0.9) 0%,rgba(83,109,254,0.9) 100%), url('http://i.imgur.com/Mf6WNtZ.jpg');
+    background-image: linear-gradient(135deg, rgba(25,118,210,0.9) 0%,rgba(83,109,254,0.9) 100%), url('https://pesce.fourthambit.com/theme/pesm/slideshow/sl-3_960_400_1408953589.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
